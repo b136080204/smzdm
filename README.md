@@ -1,4 +1,4 @@
-# 什么值得买每日签到脚本
+111# 什么值得买每日签到脚本
 
 <p align="center">
     <img src="https://img.shields.io/github/license/easypickings/smzdm">
